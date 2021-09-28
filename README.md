@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patkarshubham
+- 👋 Hi, I’m Shubham Patkar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on creative projects 
