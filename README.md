@@ -5,4 +5,5 @@
 - 📫 How to reach me ...
 - ✔ https://www.linkedin.com/in/shubhampatkar100/
 - 🟠 shubhampatkar731@gmail.com
-
+- https://shubhampatkar731.wixsite.com/shubh
+- https://twitter.com/Shubhampatkar4
