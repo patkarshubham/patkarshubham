@@ -81,15 +81,19 @@
 - **Impact:** Delivered AI-powered UX and automation; improved conversion tracking and growth insights  
 
 ### Personal / Open-Source Repos
-- **[AI Workflow Automation Templates](https://github.com/shubhampatkar/ai-workflow-templates)** – Ready-to-use RAG & LLM automation pipelines  
-- **[Next.js & TypeScript Component Library](https://github.com/shubhampatkar/nextjs-component-library)** – Reusable components for faster development  
+- **[AI Workflow Automation Templates](https://github.com/patkarshubham/ai-workflow-templates)** – Ready-to-use RAG & LLM automation pipelines  
+- **[Next.js & TypeScript Component Library](https://github.com/patkarshubham/nextjs-component-library)** – Reusable components for faster development  
 
 ---
 
 ## 📊 GitHub Stats
-![Shubham’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhampatkar&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampatkar&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patkarshubham&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
+
+![Shubham’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=patkarshubham&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patkarshubham&layout=compact&theme=radical)  
 
 ---
 
@@ -106,4 +110,3 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patkarshubham&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
