@@ -105,3 +105,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patkarshubham)](https://github.com/patkarshubham?tab=repositories)
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patkarshubham&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
