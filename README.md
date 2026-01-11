@@ -93,11 +93,13 @@
 **Tech:** OpenAI, LangChain, Next.js, PostgreSQL
 
 ---
+## 🏢 Corporate GitHub Contributions
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patkarshubham&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patkarshubham&layout=compact&theme=radical)
+- 🚀 Active contributor to **enterprise-grade AI & SaaS platforms** at CAI Stack  
+- 🧠 Built and maintained **LLM, Agentic AI, RAG, and microservices-based systems**
+- 🔁 Regular contributor across **frontend, backend, and DevOps repositories**
+- 🛠️ Involved in architecture reviews, performance optimization, and CI/CD pipelines
+- 🔒 Worked primarily on **private corporate repositories** (code not publicly visible)
 
 ---
 
@@ -105,7 +107,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhampatkar)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:shubhampatkar731@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge)](https://caistack.com)
 
 ---
 
